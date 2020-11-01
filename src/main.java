@@ -23,7 +23,7 @@ public class main {
             System.out.println("3 - View Teachers in School");
             System.out.println("4 - View Students in School");
             System.out.println("5 - View Financial Statistics");
-            System.out.println("0 - Exit");
+            System.out.println("0 - Exit School");
             option = input.nextInt();
             switch(option){
                 case 1:// calls method to create a teacher
